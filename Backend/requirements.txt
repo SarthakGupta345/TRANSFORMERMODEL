@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+torch
+pypdf2
+tiktoken
+pydantic
+python-multipart
